@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">스마트 조끼</string>
+    <string name="no_account">Not have account? <b>SignUp</b></string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

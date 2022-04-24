@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956017370235",
+    "project_id": "vest-fca90",
+    "storage_bucket": "vest-fca90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956017370235:android:7edc167f4cfaf0e66f2ede",
+        "android_client_info": {
+          "package_name": "com.example.vest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956017370235-jkvr68sbcqt01i0kml0cutt6735d66rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHaHu2Nv1LZZE9Pzg3lZw427aX5VpLdn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956017370235-jkvr68sbcqt01i0kml0cutt6735d66rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
